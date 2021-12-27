@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">urok38</string>
+
+    <string name="text_frame1">Frame 1</string>
+    <string name="edText1">text to fragment B</string>
+    <string name="btn_fr_1">to fragment B</string>
+    <string name="text_frame_2">Frame 2</string>
+    <string name="text_from_a">text from fragment B</string>
+    <string name="btn_fr_2">to fragment A</string>
+    <string name="text_fromb">text from Fragment B</string>
+</resources>
